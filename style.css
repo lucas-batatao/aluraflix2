@@ -1,0 +1,21 @@
+body {
+background-color: black;
+color: rgb(223, 152, 31)
+font-family; '' trebuchet MS''  ''comic sans MS;
+margin: 0;
+} 
+
+header {
+    font-size: 60px
+    border-bottom: double 5px 
+    padding: 6px;
+    text- -align: center;
+} 
+
+h1 {
+    font-size: 30px
+}
+
+p {
+    font-size: 20px;
+}
